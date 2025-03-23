@@ -1,0 +1,5 @@
+print("23, March 2025")
+print("Happy")
+print("I want to create an app which works for public welfare")
+print("Always keep learning, and keep everyone happy")
+print("🦅")
